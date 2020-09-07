@@ -15,6 +15,7 @@ export default class Home extends Component {
   config = {
     enablePullDownRefresh:true
   }
+  
   constructor(props) {
     super(props)
     this.page = 1
